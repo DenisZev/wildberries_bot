@@ -1,0 +1,11 @@
+aiohttp
+apscheduler
+python-barcode>=0.14.0
+pillow
+reportlab
+python-telegram-bot>=20.0
+python-dateutil
+pytz
+pandas
+openpyxl
+matplotlib
